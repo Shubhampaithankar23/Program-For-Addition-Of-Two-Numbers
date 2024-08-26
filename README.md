@@ -1,11 +1,8 @@
 # Program-For-Addition-Of-Two-Numbers
-#include <iostream>
+#include<iostream><br>
 using namespace std;
-<br>
-int main()
-<br>
-{
-<br>
+
+int main() {
     int num1, num2, sum;
 
     cout << "Enter first number: ";
