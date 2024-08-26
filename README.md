@@ -1,4 +1,4 @@
-# Program-For-Addition-Of-Two-Numbers
+# Program-For-Addition-Of-Two-Number
 #include<iostream>
 using namespace std;
 
