@@ -2,8 +2,11 @@
 #include<iostream>
 <br>
 using namespace std;
-
-int main() {
+<br>
+int main()
+<br>
+{
+<br>
     int num1, num2, sum;
 
     cout << "Enter first number: ";
